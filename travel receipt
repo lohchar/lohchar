@@ -1,0 +1,13 @@
+name="Neno Sacco \n"
+box="P.O BOX 660 Embu \n"
+Tel="0706707038\n"
+import datetime
+Date=datetime.date.today()
+print("Sacco:",name,"Box:",box,"Phone:",Tel,"Date Today:",Date)
+trav=input("Are you Travelling?")
+if trav=="yes":
+    mzigo=input("Do you have any luggage?")
+    if mzigo=="yes":
+        print("Add some luggage fee, 200Bob Only")
+elif trav=="no":
+    print("Okay! See you next time")
