@@ -22,18 +22,10 @@
 ---
 
 ## 📈 Highlighted Projects
-- Build intelligent systems that use data to make meaningful decisions.  
-- Contribute to impactful projects in **AI, Data Science, or Machine Learning Engineering**.  
-- Continuously expand my skills in **MLOps**, **Big Data**, and **Responsible AI**.  
-
+- Data Cleaning, Analysis and Visualization -using Excell, PowerBI, SQL
+- Customer Segmentation Project - Applies unsupervised machine learning techniques to segment customers based on purchasing behavior.
+- Car Price Prediction Project - Built and evaluated various regression models to accurately predict the selling price of cars based on their features.
+- RAG Project - Retrieval-Augmented Generation to answer queries based on the Constitution of Kenya.
+- Customer Support Chatbot - created a simple, rule-based customer support chatbot, to classify user questions into predefined categories based on keywords and provide an appropriate, pre-written response
 ---
 
-## 💬 Let’s Connect!
-- 🌐 [Portfolio Website](#) (optional)  
-- 💼 [LinkedIn](#)  
-- 🧑‍💻 [GitHub](#)  
-- ✉️ [Email Me](mailto:youremail@example.com)
-
----
-
-> “Data is the new oil — but insight is the spark that drives innovation.”
