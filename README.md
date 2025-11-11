@@ -7,17 +7,13 @@
 
 ## 🧠 Skills & Tools
 
-**Languages & Libraries:**  
--Python (NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, Matplotlib, Seaborn), SQL  
+**Languages & Libraries:** Python (NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, Matplotlib, Seaborn), SQL  
 
-**Machine Learning & AI:**  
--Supervised & Unsupervised Learning, Deep Learning, 
+**Machine Learning & AI:** Supervised & Unsupervised Learning, Deep Learning, 
 
-**Data Analytics & Visualization:**  
--Power BI, Excel, Matplotlib, Seaborn  
+**Data Analytics & Visualization:** Power BI, Excel, Matplotlib, Seaborn  
 
-**Databases & Cloud:**  
--MySQL, PostgreSQL, Google Cloud 
+**Databases & Cloud:** MySQL, PostgreSQL, Google Cloud 
 
 ---
 
